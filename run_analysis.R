@@ -5,8 +5,7 @@
 # applied to prepare a tidy data set.
 
 # Attach necessary libraries
-library(stringr)
-library(reshape2)
+
 library(plyr)
 
 # Read data from training and test sets
