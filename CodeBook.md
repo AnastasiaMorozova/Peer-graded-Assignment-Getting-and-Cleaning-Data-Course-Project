@@ -7,7 +7,6 @@
    
    1..30 .Unique identifier assigned with the subject who performed the activity 
    
-   Created by addíng the collumns
 2. ACTIVITY
    Type of activity, factor variable
    * WALKING
